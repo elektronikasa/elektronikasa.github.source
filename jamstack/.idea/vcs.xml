@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloud-sample-app-preview-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloud-sample-app-react" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloud-sample-app-vue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom-element-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gatsby-starter-kentico-cloud" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kentico-cloud-js" vcs="Git" />
+  </component>
+</project>
